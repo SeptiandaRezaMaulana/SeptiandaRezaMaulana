@@ -5,5 +5,5 @@
 
 ### Github Stats
 
+![septiandarezamaulana's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=septiandarezamaulana&show_icons=true&count_private=true&theme=tokyonight)
 ![septiandarezamaulana's github stats](https://github-readme-stats.vercel.app/api?username=septiandarezamaulana&show_icons=true&count_private=true&theme=tokyonight)
-![septiandarezamaulana's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=septiandarezamaulana&show_icons=true&count_private=true&theme=gruvbox)
