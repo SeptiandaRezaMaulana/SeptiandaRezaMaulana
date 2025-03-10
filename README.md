@@ -1,7 +1,7 @@
 # 👋 HI
-- 🏫 I’m currently school in Politeknik Negeri Malang
+- 🏫 I’m graduate of Politeknik Negeri Malang
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me : [Instagram](https://www.instagram.com/siusiu.rm7/), [Linkedin](https://www.linkedin.com/in/septianda-r-ab2040130/)
+- 📫 How to reach me : [Instagram](https://www.instagram.com/septian.reza06/), [Linkedin](https://www.linkedin.com/in/septianda-reza/)
 
 ### Github Stats
 
